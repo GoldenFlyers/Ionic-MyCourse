@@ -1,5 +1,7 @@
 {
   "name": "Angular-Ionic-MyCourse",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
